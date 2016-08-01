@@ -1,0 +1,18 @@
+﻿生成启动时间为 2016/7/23 10:31:27。
+     1>项目“F:\GL-project\gl8-6mipFilter\gl8-6mipFilter\gl8-6mipFilter.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\baidu download\Visual Studio\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IE:\QT5.2\5.3\msvc2012_opengl\include /I.\GeneratedFiles\Debug /IE:\QT5.2\5.3\msvc2012_opengl\include\QtCore /IE:\QT5.2\5.3\msvc2012_opengl\include\QtGui /IE:\QT5.2\5.3\msvc2012_opengl\include\QtOpenGL /IE:\QT5.2\5.3\msvc2012_opengl\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_OPENGL_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt mipfilter.cpp
+         mipfilter.cpp
+       Link:
+         E:\baidu download\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\GL-project\gl8-6mipFilter\Win32\Debug\\gl8-6mipFilter.exe" /NOLOGO /LIBPATH:E:\QT5.2\5.3\msvc2012_opengl\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5OpenGLd.lib opengl32.lib glu32.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\GL-project\gl8-6mipFilter\Win32\Debug\gl8-6mipFilter.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\GL-project\gl8-6mipFilter\Win32\Debug\gl8-6mipFilter.lib" /MACHINE:X86 /SAFESEH Debug\moc_mipfilter.obj
+         Debug\qrc_mipfilter.obj
+         Debug\LoadShaders.obj
+         Debug\main.obj
+         Debug\mipfilter.obj
+         Debug\vbm.obj
+         gl8-6mipFilter.vcxproj -> F:\GL-project\gl8-6mipFilter\Win32\Debug\gl8-6mipFilter.exe
+     1>已完成生成项目“F:\GL-project\gl8-6mipFilter\gl8-6mipFilter\gl8-6mipFilter.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.77
