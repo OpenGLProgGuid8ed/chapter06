@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>multiTexClass</class>
+ <widget class="QWidget" name="multiTexClass" >
+  <property name="objectName" >
+   <string notr="true">multiTexClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>multiTex</string>
+  </property>
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="multitex.qrc"/>
+ </resources>
+ <connections/>
+</UI>
