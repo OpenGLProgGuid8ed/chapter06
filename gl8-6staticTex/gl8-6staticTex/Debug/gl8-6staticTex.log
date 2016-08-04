@@ -1,0 +1,15 @@
+﻿生成启动时间为 2016/8/1 16:07:32。
+     1>项目“F:\GL-project\gl8-6staticTex\gl8-6staticTex\gl8-6staticTex.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         E:\baidu download\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\GL-project\gl8-6staticTex\Win32\Debug\\gl8-6staticTex.exe" /NOLOGO /LIBPATH:E:\QT5.2\5.3\msvc2012_opengl\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5OpenGLd.lib opengl32.lib glu32.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\GL-project\gl8-6staticTex\Win32\Debug\gl8-6staticTex.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\GL-project\gl8-6staticTex\Win32\Debug\gl8-6staticTex.lib" /MACHINE:X86 /SAFESEH Debug\moc_statictex.obj
+         Debug\qrc_statictex.obj
+         Debug\LoadShaders.obj
+         Debug\main.obj
+         Debug\statictex.obj
+         Debug\vbm.obj
+         gl8-6staticTex.vcxproj -> F:\GL-project\gl8-6staticTex\Win32\Debug\gl8-6staticTex.exe
+     1>已完成生成项目“F:\GL-project\gl8-6staticTex\gl8-6staticTex\gl8-6staticTex.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.59
